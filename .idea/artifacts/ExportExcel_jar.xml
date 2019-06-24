@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/ExportExcel_jar</output-path>
     <root id="archive" name="ExportExcel.jar">
       <element id="module-output" name="ExportExcel" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/ojdbc-11.2.0.4.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-3.17.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-8.0.15.jar" path-in-jar="/" />
     </root>
